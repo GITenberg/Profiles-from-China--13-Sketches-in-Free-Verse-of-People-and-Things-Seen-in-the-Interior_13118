@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4844'
     url: http://www.gutenberg.org/2009/agents/4844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13118#Profiles-from-China--13-Sketches-in-Free-Verse-of-People-and-Things-Seen-in-the-Interior
 gutenberg_issued: '2004-08-05'
 gutenberg_type: Text
 identifiers:
