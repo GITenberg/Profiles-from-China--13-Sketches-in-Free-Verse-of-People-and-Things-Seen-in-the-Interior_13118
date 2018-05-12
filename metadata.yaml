@@ -1,0 +1,27 @@
+_repo: Profiles-from-China--13-Sketches-in-Free-Verse-of-People-and-Things-Seen-in-the-Interior_13118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tietjens, Eunice
+    birthdate: 1884
+    deathdate: 1944
+    gutenberg_agent_id: '4844'
+    url: http://www.gutenberg.org/2009/agents/4844
+description: ''
+gutenberg_issued: '2004-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Poetry'
+- !lcc 'PS'
+title: "Profiles from China\r\nSketches in Free Verse of People and Things Seen in\
+  \ the Interior"
+url: http://www.gutenberg.org/ebooks/13118
